@@ -1,4 +1,4 @@
-jQuery UI Timepicker by Fletcher Johnston (Originally by François Gélinas)
+jQuery Bootstrap Timepicker by Fletcher Johnston (Originally by François Gélinas)
 ========================================
 
 What
